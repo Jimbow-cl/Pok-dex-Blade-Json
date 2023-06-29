@@ -1,0 +1,40 @@
+.Fire{
+    color:red;
+}
+.Grass{
+    color:greenyellow;
+}
+
+.Water{
+    color:aqua;
+}
+
+.Bug{
+    color:antiquewhite;
+}
+
+.Normal{
+    color:bisque;
+}
+
+.Ground{
+    color: brown;
+}
+.Electric{
+    color:yellow;
+}
+.Poison{
+    color:blueviolet;
+}
+.Fighting{
+    color:crimson;
+}
+.Psychic{
+    color:coral;
+}
+.Rock{
+    color: grey;
+}
+.Ghost{
+    color:lavender;
+}
